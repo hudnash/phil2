@@ -1,0 +1,1 @@
+./convert.sh && python unzip_and_clean_to.py && python mkspreadsheet.py

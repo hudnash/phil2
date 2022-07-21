@@ -12,7 +12,7 @@ Temporary!
 - Run the following in your shell:
   ```zsh
     $ cd ~/phil/control
-    $ ./convert.sh && clean_dump_to_dir.py && sheet.py
+    $ ./convert.sh && python clean_dump_to_dir.py && python sheet.py
   ```
 
 ### 3. When you run into a problem (WILL LIKELY OCCUR when new folder layouts are encountered):
